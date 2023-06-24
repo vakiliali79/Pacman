@@ -1,0 +1,2185 @@
+<----> START The time is: 2023-06-19-19:09:48 <---->
+Enter your first name:
+: Enter your last name:
+: Enter your student code:
+: pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.0056378841400146484
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.00599980354309082
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005475282669067383
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.004694223403930664
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.006596565246582031
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005475759506225586
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.003992557525634766
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.005523681640625
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005999565124511719
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.004553079605102539
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.006604194641113281
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.0050008296966552734
+BFS number of expanded Nodes GREENGHOST:  186
+BFS number of total Nodes GREENGHOST:  525
+BFS computation time GREENGHOST:  0.004931211471557617
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.0055158138275146484
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005000114440917969
+BFS number of expanded Nodes GREENGHOST:  164
+BFS number of total Nodes GREENGHOST:  468
+BFS computation time GREENGHOST:  0.004962444305419922
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.010519266128540039
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.010518550872802734
+BFS number of expanded Nodes GREENGHOST:  168
+BFS number of total Nodes GREENGHOST:  478
+BFS computation time GREENGHOST:  0.0039751529693603516
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.005502462387084961
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005006551742553711
+BFS number of expanded Nodes GREENGHOST:  140
+BFS number of total Nodes GREENGHOST:  400
+BFS computation time GREENGHOST:  0.003583192825317383
+BFS number of expanded Nodes REDGHOST:  186
+BFS number of total Nodes REDGHOST:  525
+BFS computation time REDGHOST:  0.006006956100463867
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005376338958740234
+BFS number of expanded Nodes GREENGHOST:  123
+BFS number of total Nodes GREENGHOST:  353
+BFS computation time GREENGHOST:  0.0029942989349365234
+BFS number of expanded Nodes REDGHOST:  164
+BFS number of total Nodes REDGHOST:  468
+BFS computation time REDGHOST:  0.009408950805664062
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.005589485168457031
+BFS number of expanded Nodes GREENGHOST:  111
+BFS number of total Nodes GREENGHOST:  317
+BFS computation time GREENGHOST:  0.001668691635131836
+BFS number of expanded Nodes REDGHOST:  168
+BFS number of total Nodes REDGHOST:  478
+BFS computation time REDGHOST:  0.004921436309814453
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.004999399185180664
+BFS number of expanded Nodes GREENGHOST:  107
+BFS number of total Nodes GREENGHOST:  307
+BFS computation time GREENGHOST:  0.002000093460083008
+BFS number of expanded Nodes REDGHOST:  140
+BFS number of total Nodes REDGHOST:  400
+BFS computation time REDGHOST:  0.003560781478881836
+BFS number of expanded Nodes ORANGEGHOST:  186
+BFS number of total Nodes ORANGEGHOST:  525
+BFS computation time ORANGEGHOST:  0.006035327911376953
+BFS number of expanded Nodes GREENGHOST:  83
+BFS number of total Nodes GREENGHOST:  241
+BFS computation time GREENGHOST:  0.0009970664978027344
+BFS number of expanded Nodes REDGHOST:  123
+BFS number of total Nodes REDGHOST:  353
+BFS computation time REDGHOST:  0.0030012130737304688
+BFS number of expanded Nodes ORANGEGHOST:  164
+BFS number of total Nodes ORANGEGHOST:  468
+BFS computation time ORANGEGHOST:  0.004502534866333008
+BFS number of expanded Nodes GREENGHOST:  61
+BFS number of total Nodes GREENGHOST:  178
+BFS computation time GREENGHOST:  0.001512289047241211
+BFS number of expanded Nodes REDGHOST:  111
+BFS number of total Nodes REDGHOST:  317
+BFS computation time REDGHOST:  0.003008604049682617
+BFS number of expanded Nodes ORANGEGHOST:  168
+BFS number of total Nodes ORANGEGHOST:  478
+BFS computation time ORANGEGHOST:  0.0075092315673828125
+BFS number of expanded Nodes GREENGHOST:  58
+BFS number of total Nodes GREENGHOST:  168
+BFS computation time GREENGHOST:  0.0009953975677490234
+BFS number of expanded Nodes REDGHOST:  118
+BFS number of total Nodes REDGHOST:  335
+BFS computation time REDGHOST:  0.0019989013671875
+BFS number of expanded Nodes ORANGEGHOST:  155
+BFS number of total Nodes ORANGEGHOST:  442
+BFS computation time ORANGEGHOST:  0.004515171051025391
+BFS number of expanded Nodes GREENGHOST:  50
+BFS number of total Nodes GREENGHOST:  144
+BFS computation time GREENGHOST:  0.0010111331939697266
+BFS number of expanded Nodes REDGHOST:  101
+BFS number of total Nodes REDGHOST:  291
+BFS computation time REDGHOST:  0.0009980201721191406
+BFS number of expanded Nodes ORANGEGHOST:  144
+BFS number of total Nodes ORANGEGHOST:  412
+BFS computation time ORANGEGHOST:  0.002999544143676758
+BFS number of expanded Nodes GREENGHOST:  41
+BFS number of total Nodes GREENGHOST:  118
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  75
+BFS number of total Nodes REDGHOST:  218
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  122
+BFS number of total Nodes ORANGEGHOST:  347
+BFS computation time ORANGEGHOST:  0.0029993057250976562
+BFS number of expanded Nodes GREENGHOST:  39
+BFS number of total Nodes GREENGHOST:  110
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  70
+BFS number of total Nodes REDGHOST:  201
+BFS computation time REDGHOST:  0.0009772777557373047
+BFS number of expanded Nodes ORANGEGHOST:  127
+BFS number of total Nodes ORANGEGHOST:  360
+BFS computation time ORANGEGHOST:  0.001998424530029297
+BFS number of expanded Nodes GREENGHOST:  42
+BFS number of total Nodes GREENGHOST:  119
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  65
+BFS number of total Nodes REDGHOST:  186
+BFS computation time REDGHOST:  0.0009443759918212891
+BFS number of expanded Nodes ORANGEGHOST:  123
+BFS number of total Nodes ORANGEGHOST:  348
+BFS computation time ORANGEGHOST:  0.0030031204223632812
+BFS number of expanded Nodes GREENGHOST:  35
+BFS number of total Nodes GREENGHOST:  103
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  55
+BFS number of total Nodes REDGHOST:  158
+BFS computation time REDGHOST:  0.0008325576782226562
+BFS number of expanded Nodes ORANGEGHOST:  106
+BFS number of total Nodes ORANGEGHOST:  304
+BFS computation time ORANGEGHOST:  0.0019989013671875
+BFS number of expanded Nodes GREENGHOST:  32
+BFS number of total Nodes GREENGHOST:  94
+BFS computation time GREENGHOST:  0.0007936954498291016
+BFS number of expanded Nodes REDGHOST:  51
+BFS number of total Nodes REDGHOST:  146
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  95
+BFS number of total Nodes ORANGEGHOST:  273
+BFS computation time ORANGEGHOST:  0.0009992122650146484
+BFS number of expanded Nodes GREENGHOST:  30
+BFS number of total Nodes GREENGHOST:  88
+BFS computation time GREENGHOST:  0.0008230209350585938
+BFS number of expanded Nodes REDGHOST:  56
+BFS number of total Nodes REDGHOST:  161
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  87
+BFS number of total Nodes ORANGEGHOST:  251
+BFS computation time ORANGEGHOST:  0.0009982585906982422
+BFS number of expanded Nodes GREENGHOST:  30
+BFS number of total Nodes GREENGHOST:  89
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  59
+BFS number of total Nodes REDGHOST:  170
+BFS computation time REDGHOST:  0.0009696483612060547
+BFS number of expanded Nodes ORANGEGHOST:  81
+BFS number of total Nodes ORANGEGHOST:  234
+BFS computation time ORANGEGHOST:  0.0009891986846923828
+BFS number of expanded Nodes GREENGHOST:  30
+BFS number of total Nodes GREENGHOST:  89
+BFS computation time GREENGHOST:  0.0007958412170410156
+BFS number of expanded Nodes REDGHOST:  61
+BFS number of total Nodes REDGHOST:  176
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  79
+BFS number of total Nodes ORANGEGHOST:  228
+BFS computation time ORANGEGHOST:  0.000997304916381836
+BFS number of expanded Nodes GREENGHOST:  32
+BFS number of total Nodes GREENGHOST:  94
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  66
+BFS number of total Nodes REDGHOST:  189
+BFS computation time REDGHOST:  0.0008246898651123047
+BFS number of expanded Nodes ORANGEGHOST:  87
+BFS number of total Nodes ORANGEGHOST:  248
+BFS computation time ORANGEGHOST:  0.001592397689819336
+BFS number of expanded Nodes GREENGHOST:  35
+BFS number of total Nodes GREENGHOST:  103
+BFS computation time GREENGHOST:  0.0009489059448242188
+BFS number of expanded Nodes REDGHOST:  66
+BFS number of total Nodes REDGHOST:  193
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  92
+BFS number of total Nodes ORANGEGHOST:  263
+BFS computation time ORANGEGHOST:  0.002030611038208008
+BFS number of expanded Nodes GREENGHOST:  28
+BFS number of total Nodes GREENGHOST:  83
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  53
+BFS number of total Nodes REDGHOST:  154
+BFS computation time REDGHOST:  0.0010106563568115234
+BFS number of expanded Nodes ORANGEGHOST:  85
+BFS number of total Nodes ORANGEGHOST:  242
+BFS computation time ORANGEGHOST:  0.0009982585906982422
+BFS number of expanded Nodes GREENGHOST:  31
+BFS number of total Nodes GREENGHOST:  89
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  53
+BFS number of total Nodes REDGHOST:  153
+BFS computation time REDGHOST:  0.0009899139404296875
+BFS number of expanded Nodes ORANGEGHOST:  89
+BFS number of total Nodes ORANGEGHOST:  252
+BFS computation time ORANGEGHOST:  0.0009992122650146484
+BFS number of expanded Nodes GREENGHOST:  22
+BFS number of total Nodes GREENGHOST:  64
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  52
+BFS number of total Nodes REDGHOST:  149
+BFS computation time REDGHOST:  0.0008254051208496094
+BFS number of expanded Nodes ORANGEGHOST:  88
+BFS number of total Nodes ORANGEGHOST:  247
+BFS computation time ORANGEGHOST:  0.0010001659393310547
+BFS number of expanded Nodes GREENGHOST:  14
+BFS number of total Nodes GREENGHOST:  41
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  44
+BFS number of total Nodes REDGHOST:  125
+BFS computation time REDGHOST:  0.0008332729339599609
+BFS number of expanded Nodes ORANGEGHOST:  78
+BFS number of total Nodes ORANGEGHOST:  223
+BFS computation time ORANGEGHOST:  0.000997781753540039
+BFS number of expanded Nodes GREENGHOST:  10
+BFS number of total Nodes GREENGHOST:  29
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  42
+BFS number of total Nodes REDGHOST:  119
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  71
+BFS number of total Nodes ORANGEGHOST:  203
+BFS computation time ORANGEGHOST:  0.0010094642639160156
+BFS number of expanded Nodes GREENGHOST:  11
+BFS number of total Nodes GREENGHOST:  32
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  38
+BFS number of total Nodes REDGHOST:  109
+BFS computation time REDGHOST:  0.0008227825164794922
+BFS number of expanded Nodes ORANGEGHOST:  71
+BFS number of total Nodes ORANGEGHOST:  203
+BFS computation time ORANGEGHOST:  0.0009992122650146484
+BFS number of expanded Nodes GREENGHOST:  8
+BFS number of total Nodes GREENGHOST:  23
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  28
+BFS number of total Nodes REDGHOST:  81
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  58
+BFS number of total Nodes ORANGEGHOST:  167
+BFS computation time ORANGEGHOST:  0.0010218620300292969
+BFS number of expanded Nodes GREENGHOST:  11
+BFS number of total Nodes GREENGHOST:  32
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  25
+BFS number of total Nodes REDGHOST:  74
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  57
+BFS number of total Nodes ORANGEGHOST:  164
+BFS computation time ORANGEGHOST:  0.0008783340454101562
+BFS number of expanded Nodes GREENGHOST:  10
+BFS number of total Nodes GREENGHOST:  29
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  25
+BFS number of total Nodes REDGHOST:  74
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  53
+BFS number of total Nodes ORANGEGHOST:  152
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  12
+BFS number of total Nodes GREENGHOST:  35
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  24
+BFS number of total Nodes REDGHOST:  71
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  55
+BFS number of total Nodes ORANGEGHOST:  157
+BFS computation time ORANGEGHOST:  0.0010132789611816406
+BFS number of expanded Nodes GREENGHOST:  6
+BFS number of total Nodes GREENGHOST:  17
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  20
+BFS number of total Nodes REDGHOST:  59
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  44
+BFS number of total Nodes ORANGEGHOST:  129
+BFS computation time ORANGEGHOST:  0.0008196830749511719
+BFS number of expanded Nodes GREENGHOST:  4
+BFS number of total Nodes GREENGHOST:  11
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  20
+BFS number of total Nodes REDGHOST:  59
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  42
+BFS number of total Nodes ORANGEGHOST:  123
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  5
+BFS number of total Nodes GREENGHOST:  14
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  24
+BFS number of total Nodes REDGHOST:  71
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  42
+BFS number of total Nodes ORANGEGHOST:  125
+BFS computation time ORANGEGHOST:  0.0008747577667236328
+BFS number of expanded Nodes GREENGHOST:  7
+BFS number of total Nodes GREENGHOST:  20
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  21
+BFS number of total Nodes REDGHOST:  62
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  47
+BFS number of total Nodes ORANGEGHOST:  140
+BFS computation time ORANGEGHOST:  0.0010156631469726562
+BFS number of expanded Nodes GREENGHOST:  6
+BFS number of total Nodes GREENGHOST:  17
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  16
+BFS number of total Nodes REDGHOST:  47
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  46
+BFS number of total Nodes ORANGEGHOST:  137
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  4
+BFS number of total Nodes GREENGHOST:  11
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  17
+BFS number of total Nodes REDGHOST:  50
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  54
+BFS number of total Nodes ORANGEGHOST:  161
+BFS computation time ORANGEGHOST:  0.0007941722869873047
+BFS number of expanded Nodes GREENGHOST:  5
+BFS number of total Nodes GREENGHOST:  14
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  20
+BFS number of total Nodes REDGHOST:  59
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  48
+BFS number of total Nodes ORANGEGHOST:  143
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  13
+BFS number of total Nodes REDGHOST:  38
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  30
+BFS number of total Nodes ORANGEGHOST:  89
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  0.0008161067962646484
+BFS number of expanded Nodes REDGHOST:  9
+BFS number of total Nodes REDGHOST:  26
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  29
+BFS number of total Nodes ORANGEGHOST:  86
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  2
+BFS number of total Nodes GREENGHOST:  5
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  10
+BFS number of total Nodes REDGHOST:  29
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  33
+BFS number of total Nodes ORANGEGHOST:  98
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  2
+BFS number of total Nodes GREENGHOST:  5
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  10
+BFS number of total Nodes REDGHOST:  29
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  28
+BFS number of total Nodes ORANGEGHOST:  83
+BFS computation time ORANGEGHOST:  0.0
+Thanks for playing
+You got  23 nomdots.
+Your time was: 22.93714213371277 seconds
+saving...
+<----> START The time is: 2023-06-19-19:09:48 <---->
+Enter your first name:
+: <----> START The time is: 2023-06-19-19:10:35 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.011538028717041016
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.005522251129150391
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.007578611373901367
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.005694389343261719
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.006000518798828125
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.00560307502746582
+BFS number of expanded Nodes GREENGHOST:  176
+BFS number of total Nodes GREENGHOST:  497
+BFS computation time GREENGHOST:  0.005542755126953125
+BFS number of expanded Nodes REDGHOST:  176
+BFS number of total Nodes REDGHOST:  497
+BFS computation time REDGHOST:  0.0059986114501953125
+BFS number of expanded Nodes ORANGEGHOST:  176
+BFS number of total Nodes ORANGEGHOST:  497
+BFS computation time ORANGEGHOST:  0.004510641098022461
+BFS number of expanded Nodes GREENGHOST:  176
+BFS number of total Nodes GREENGHOST:  497
+BFS computation time GREENGHOST:  0.004608631134033203
+BFS number of expanded Nodes REDGHOST:  176
+BFS number of total Nodes REDGHOST:  497
+BFS computation time REDGHOST:  0.004605770111083984
+BFS number of expanded Nodes ORANGEGHOST:  176
+BFS number of total Nodes ORANGEGHOST:  497
+BFS computation time ORANGEGHOST:  0.004960060119628906
+BFS number of expanded Nodes GREENGHOST:  157
+BFS number of total Nodes GREENGHOST:  448
+BFS computation time GREENGHOST:  0.004233598709106445
+BFS number of expanded Nodes REDGHOST:  164
+BFS number of total Nodes REDGHOST:  463
+BFS computation time REDGHOST:  0.004000186920166016
+BFS number of expanded Nodes ORANGEGHOST:  164
+BFS number of total Nodes ORANGEGHOST:  463
+BFS computation time ORANGEGHOST:  0.003000497817993164
+BFS number of expanded Nodes GREENGHOST:  129
+BFS number of total Nodes GREENGHOST:  370
+BFS computation time GREENGHOST:  0.002870798110961914
+BFS number of expanded Nodes REDGHOST:  164
+BFS number of total Nodes REDGHOST:  463
+BFS computation time REDGHOST:  0.004561901092529297
+BFS number of expanded Nodes ORANGEGHOST:  164
+BFS number of total Nodes ORANGEGHOST:  463
+BFS computation time ORANGEGHOST:  0.0039980411529541016
+BFS number of expanded Nodes GREENGHOST:  103
+BFS number of total Nodes GREENGHOST:  302
+BFS computation time GREENGHOST:  0.0019979476928710938
+BFS number of expanded Nodes REDGHOST:  154
+BFS number of total Nodes REDGHOST:  439
+BFS computation time REDGHOST:  0.003000020980834961
+BFS number of expanded Nodes ORANGEGHOST:  154
+BFS number of total Nodes ORANGEGHOST:  439
+BFS computation time ORANGEGHOST:  0.0045032501220703125
+BFS number of expanded Nodes GREENGHOST:  72
+BFS number of total Nodes GREENGHOST:  212
+BFS computation time GREENGHOST:  0.0015454292297363281
+BFS number of expanded Nodes REDGHOST:  120
+BFS number of total Nodes REDGHOST:  348
+BFS computation time REDGHOST:  0.0019989013671875
+BFS number of expanded Nodes ORANGEGHOST:  135
+BFS number of total Nodes ORANGEGHOST:  391
+BFS computation time ORANGEGHOST:  0.003000497817993164
+BFS number of expanded Nodes GREENGHOST:  46
+BFS number of total Nodes GREENGHOST:  137
+BFS computation time GREENGHOST:  0.0005307197570800781
+BFS number of expanded Nodes REDGHOST:  77
+BFS number of total Nodes REDGHOST:  226
+BFS computation time REDGHOST:  0.0010046958923339844
+BFS number of expanded Nodes ORANGEGHOST:  114
+BFS number of total Nodes ORANGEGHOST:  333
+BFS computation time ORANGEGHOST:  0.0020003318786621094
+BFS number of expanded Nodes GREENGHOST:  47
+BFS number of total Nodes GREENGHOST:  140
+BFS computation time GREENGHOST:  0.00102996826171875
+BFS number of expanded Nodes REDGHOST:  86
+BFS number of total Nodes REDGHOST:  253
+BFS computation time REDGHOST:  0.0010001659393310547
+BFS number of expanded Nodes ORANGEGHOST:  136
+BFS number of total Nodes ORANGEGHOST:  394
+BFS computation time ORANGEGHOST:  0.0030040740966796875
+BFS number of expanded Nodes GREENGHOST:  55
+BFS number of total Nodes GREENGHOST:  164
+BFS computation time GREENGHOST:  0.0008301734924316406
+BFS number of expanded Nodes REDGHOST:  86
+BFS number of total Nodes REDGHOST:  252
+BFS computation time REDGHOST:  0.0009996891021728516
+BFS number of expanded Nodes ORANGEGHOST:  141
+BFS number of total Nodes ORANGEGHOST:  406
+BFS computation time ORANGEGHOST:  0.0035076141357421875
+BFS number of expanded Nodes GREENGHOST:  38
+BFS number of total Nodes GREENGHOST:  113
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  76
+BFS number of total Nodes REDGHOST:  225
+BFS computation time REDGHOST:  0.0010104179382324219
+BFS number of expanded Nodes ORANGEGHOST:  112
+BFS number of total Nodes ORANGEGHOST:  327
+BFS computation time ORANGEGHOST:  0.0019981861114501953
+BFS number of expanded Nodes GREENGHOST:  39
+BFS number of total Nodes GREENGHOST:  114
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  81
+BFS number of total Nodes REDGHOST:  236
+BFS computation time REDGHOST:  0.0010137557983398438
+BFS number of expanded Nodes ORANGEGHOST:  126
+BFS number of total Nodes ORANGEGHOST:  364
+BFS computation time ORANGEGHOST:  0.0019960403442382812
+BFS number of expanded Nodes GREENGHOST:  41
+BFS number of total Nodes GREENGHOST:  120
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  93
+BFS number of total Nodes REDGHOST:  270
+BFS computation time REDGHOST:  0.0017898082733154297
+BFS number of expanded Nodes ORANGEGHOST:  121
+BFS number of total Nodes ORANGEGHOST:  350
+BFS computation time ORANGEGHOST:  0.0025026798248291016
+BFS number of expanded Nodes GREENGHOST:  36
+BFS number of total Nodes GREENGHOST:  105
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  81
+BFS number of total Nodes REDGHOST:  237
+BFS computation time REDGHOST:  0.001825571060180664
+BFS number of expanded Nodes ORANGEGHOST:  121
+BFS number of total Nodes ORANGEGHOST:  349
+BFS computation time ORANGEGHOST:  0.0015377998352050781
+BFS number of expanded Nodes GREENGHOST:  16
+BFS number of total Nodes GREENGHOST:  46
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  45
+BFS number of total Nodes REDGHOST:  132
+BFS computation time REDGHOST:  0.0008003711700439453
+BFS number of expanded Nodes ORANGEGHOST:  94
+BFS number of total Nodes ORANGEGHOST:  273
+BFS computation time ORANGEGHOST:  0.0009999275207519531
+BFS number of expanded Nodes GREENGHOST:  10
+BFS number of total Nodes GREENGHOST:  29
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  37
+BFS number of total Nodes REDGHOST:  108
+BFS computation time REDGHOST:  0.0008149147033691406
+BFS number of expanded Nodes ORANGEGHOST:  89
+BFS number of total Nodes ORANGEGHOST:  259
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  8
+BFS number of total Nodes GREENGHOST:  23
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  27
+BFS number of total Nodes REDGHOST:  78
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  62
+BFS number of total Nodes ORANGEGHOST:  183
+BFS computation time ORANGEGHOST:  0.0008323192596435547
+BFS number of expanded Nodes GREENGHOST:  9
+BFS number of total Nodes GREENGHOST:  26
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  21
+BFS number of total Nodes REDGHOST:  60
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  59
+BFS number of total Nodes ORANGEGHOST:  174
+BFS computation time ORANGEGHOST:  0.0008769035339355469
+BFS number of expanded Nodes GREENGHOST:  7
+BFS number of total Nodes GREENGHOST:  20
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  14
+BFS number of total Nodes REDGHOST:  40
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  47
+BFS number of total Nodes ORANGEGHOST:  138
+BFS computation time ORANGEGHOST:  0.0009622573852539062
+BFS number of expanded Nodes GREENGHOST:  6
+BFS number of total Nodes GREENGHOST:  17
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  16
+BFS number of total Nodes REDGHOST:  45
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  34
+BFS number of total Nodes ORANGEGHOST:  99
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  4
+BFS number of total Nodes GREENGHOST:  11
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  18
+BFS number of total Nodes REDGHOST:  51
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  19
+BFS number of total Nodes ORANGEGHOST:  56
+BFS computation time ORANGEGHOST:  0.0007832050323486328
+BFS number of expanded Nodes GREENGHOST:  5
+BFS number of total Nodes GREENGHOST:  14
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  18
+BFS number of total Nodes REDGHOST:  52
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  9
+BFS number of total Nodes ORANGEGHOST:  26
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  5
+BFS number of total Nodes GREENGHOST:  14
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  24
+BFS number of total Nodes REDGHOST:  67
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  8
+BFS number of total Nodes ORANGEGHOST:  23
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  20
+BFS number of total Nodes REDGHOST:  59
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  3
+BFS number of total Nodes ORANGEGHOST:  8
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  24
+BFS number of total Nodes REDGHOST:  71
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  3
+BFS number of total Nodes ORANGEGHOST:  8
+BFS computation time ORANGEGHOST:  0.0
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  0.0
+BFS number of expanded Nodes REDGHOST:  20
+BFS number of total Nodes REDGHOST:  59
+BFS computation time REDGHOST:  0.0
+BFS number of expanded Nodes ORANGEGHOST:  3
+BFS number of total Nodes ORANGEGHOST:  8
+BFS computation time ORANGEGHOST:  0.0
+Thanks for playing
+You got  15 nomdots.
+Your time was: 13.471259355545044 seconds
+saving...
+<----> START The time is: 2023-06-19-19:19:24 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-19-19:25:25 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010056495666503906
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009961128234863281
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009965896606445312
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010023117065429688
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009970664978027344
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015053749084472656
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010056495666503906
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009336471557617188
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009987354278564453
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0010106563568115234
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0009982585906982422
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.001058340072631836
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.000946044921875
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0010793209075927734
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0008232593536376953
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  29
+ASTART number of total Nodes ORANGEGHOST:  86
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  29
+ASTART number of total Nodes ORANGEGHOST:  86
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  29
+ASTART number of total Nodes ORANGEGHOST:  86
+ASTART computation time ORANGEGHOST:  0.0009005069732666016
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0005092620849609375
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+Thanks for playing
+You got  19 nomdots.
+Your time was: 13.51725149154663 seconds
+saving...
+
+<----> START The time is: 2023-06-19-19:25:43 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009603500366210938
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010142326354980469
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009851455688476562
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010006427764892578
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010046958923339844
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.00099945068359375
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010418891906738281
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009992122650146484
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010051727294921875
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010106563568115234
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009984970092773438
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0020904541015625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010182857513427734
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010128021240234375
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009889602661132812
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0008227825164794922
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010001659393310547
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010080337524414062
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010004043579101562
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010006427764892578
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0012183189392089844
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0005948543548583984
+ASTART number of expanded Nodes ORANGEGHOST:  45
+ASTART number of total Nodes ORANGEGHOST:  134
+ASTART computation time ORANGEGHOST:  0.0010046958923339844
+ASTART number of expanded Nodes ORANGEGHOST:  45
+ASTART number of total Nodes ORANGEGHOST:  134
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  45
+ASTART number of total Nodes ORANGEGHOST:  134
+ASTART computation time ORANGEGHOST:  0.0009982585906982422
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.00101470947265625
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0013494491577148438
+ASTART number of expanded Nodes ORANGEGHOST:  32
+ASTART number of total Nodes ORANGEGHOST:  95
+ASTART computation time ORANGEGHOST:  0.0009968280792236328
+ASTART number of expanded Nodes ORANGEGHOST:  32
+ASTART number of total Nodes ORANGEGHOST:  95
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  32
+ASTART number of total Nodes ORANGEGHOST:  95
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  27
+ASTART number of total Nodes ORANGEGHOST:  80
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  27
+ASTART number of total Nodes ORANGEGHOST:  80
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  27
+ASTART number of total Nodes ORANGEGHOST:  80
+ASTART computation time ORANGEGHOST:  0.0010461807250976562
+Thanks for playing!
+Your score was: 2
+Your time was: 7.324806451797485 seconds
+saving...
+<----> END The time is: 2023-06-19-19:25:43 <---->
+<----> START The time is: 2023-06-19-19:25:54 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010061264038085938
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010023117065429688
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010097026824951172
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010051727294921875
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009877681732177734
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009996891021728516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009996891021728516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010039806365966797
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0008745193481445312
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0010001659393310547
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0008289813995361328
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0009989738464355469
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0010499954223632812
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0013997554779052734
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0007932186126708984
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.000986337661743164
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  29
+ASTART number of total Nodes ORANGEGHOST:  86
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  29
+ASTART number of total Nodes ORANGEGHOST:  86
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  29
+ASTART number of total Nodes ORANGEGHOST:  86
+ASTART computation time ORANGEGHOST:  0.0010104179382324219
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0005207061767578125
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0007915496826171875
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+Thanks for playing
+You got  16 nomdots.
+Your time was: 16.90865683555603 seconds
+saving...
+
+<----> START The time is: 2023-06-19-19:26:15 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009996891021728516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009989738464355469
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010006427764892578
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0008525848388671875
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001995086669921875
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015430450439453125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001020193099975586
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010387897491455078
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001611948013305664
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0005276203155517578
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0015358924865722656
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0001227855682373047
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.00104522705078125
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0008766651153564453
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0008189678192138672
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  17
+ASTART number of total Nodes ORANGEGHOST:  50
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  17
+ASTART number of total Nodes ORANGEGHOST:  50
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  17
+ASTART number of total Nodes ORANGEGHOST:  50
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0005910396575927734
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+Thanks for playing!
+Your score was: 6
+Your time was: 9.052586555480957 seconds
+saving...
+<----> END The time is: 2023-06-19-19:26:15 <---->
+<----> START The time is: 2023-06-19-19:27:59 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009913444519042969
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015053749084472656
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002013683319091797
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0006799697875976562
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009968280792236328
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0009856224060058594
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015118122100830078
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010056495666503906
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0010004043579101562
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.000514984130859375
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0010306835174560547
+ASTART number of expanded Nodes ORANGEGHOST:  45
+ASTART number of total Nodes ORANGEGHOST:  134
+ASTART computation time ORANGEGHOST:  0.0006186962127685547
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.001026153564453125
+ASTART number of expanded Nodes ORANGEGHOST:  31
+ASTART number of total Nodes ORANGEGHOST:  92
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0009996891021728516
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0010023117065429688
+ASTART number of expanded Nodes ORANGEGHOST:  23
+ASTART number of total Nodes ORANGEGHOST:  68
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0010144710540771484
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  24
+ASTART number of total Nodes ORANGEGHOST:  71
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  20
+ASTART number of total Nodes ORANGEGHOST:  59
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0005044937133789062
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  17
+ASTART number of total Nodes ORANGEGHOST:  50
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  47
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  14
+ASTART computation time ORANGEGHOST:  0.0
+Thanks for playing
+You got  28 nomdots.
+Your time was: 19.586255311965942 seconds
+saving...
+
+<----> START The time is: 2023-06-19-19:42:10 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes ORANGEGHOST:  162
+ASTART number of total Nodes ORANGEGHOST:  230
+ASTART computation time ORANGEGHOST:  0.002078533172607422
+ASTART number of expanded Nodes ORANGEGHOST:  161
+ASTART number of total Nodes ORANGEGHOST:  229
+ASTART computation time ORANGEGHOST:  0.00399327278137207
+ASTART number of expanded Nodes ORANGEGHOST:  162
+ASTART number of total Nodes ORANGEGHOST:  230
+ASTART computation time ORANGEGHOST:  0.0009980201721191406
+ASTART number of expanded Nodes ORANGEGHOST:  161
+ASTART number of total Nodes ORANGEGHOST:  229
+ASTART computation time ORANGEGHOST:  0.0016777515411376953
+ASTART number of expanded Nodes ORANGEGHOST:  161
+ASTART number of total Nodes ORANGEGHOST:  229
+ASTART computation time ORANGEGHOST:  0.0019996166229248047
+ASTART number of expanded Nodes ORANGEGHOST:  162
+ASTART number of total Nodes ORANGEGHOST:  230
+ASTART computation time ORANGEGHOST:  0.0010001659393310547
+ASTART number of expanded Nodes ORANGEGHOST:  158
+ASTART number of total Nodes ORANGEGHOST:  226
+ASTART computation time ORANGEGHOST:  0.0015106201171875
+ASTART number of expanded Nodes ORANGEGHOST:  161
+ASTART number of total Nodes ORANGEGHOST:  229
+ASTART computation time ORANGEGHOST:  0.0020394325256347656
+ASTART number of expanded Nodes ORANGEGHOST:  162
+ASTART number of total Nodes ORANGEGHOST:  230
+ASTART computation time ORANGEGHOST:  0.001999378204345703
+ASTART number of expanded Nodes ORANGEGHOST:  154
+ASTART number of total Nodes ORANGEGHOST:  222
+ASTART computation time ORANGEGHOST:  0.0009703636169433594
+ASTART number of expanded Nodes ORANGEGHOST:  161
+ASTART number of total Nodes ORANGEGHOST:  229
+ASTART computation time ORANGEGHOST:  0.0015037059783935547
+ASTART number of expanded Nodes ORANGEGHOST:  162
+ASTART number of total Nodes ORANGEGHOST:  230
+ASTART computation time ORANGEGHOST:  0.0020079612731933594
+ASTART number of expanded Nodes ORANGEGHOST:  125
+ASTART number of total Nodes ORANGEGHOST:  179
+ASTART computation time ORANGEGHOST:  0.002999544143676758
+ASTART number of expanded Nodes ORANGEGHOST:  161
+ASTART number of total Nodes ORANGEGHOST:  229
+ASTART computation time ORANGEGHOST:  0.002997159957885742
+ASTART number of expanded Nodes ORANGEGHOST:  162
+ASTART number of total Nodes ORANGEGHOST:  230
+ASTART computation time ORANGEGHOST:  0.004555225372314453
+ASTART number of expanded Nodes ORANGEGHOST:  123
+ASTART number of total Nodes ORANGEGHOST:  179
+ASTART computation time ORANGEGHOST:  0.0008609294891357422
+ASTART number of expanded Nodes ORANGEGHOST:  127
+ASTART number of total Nodes ORANGEGHOST:  178
+ASTART computation time ORANGEGHOST:  0.0020020008087158203
+ASTART number of expanded Nodes ORANGEGHOST:  131
+ASTART number of total Nodes ORANGEGHOST:  182
+ASTART computation time ORANGEGHOST:  0.0009989738464355469
+ASTART number of expanded Nodes ORANGEGHOST:  62
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  84
+ASTART number of total Nodes ORANGEGHOST:  123
+ASTART computation time ORANGEGHOST:  0.001664876937866211
+ASTART number of expanded Nodes ORANGEGHOST:  92
+ASTART number of total Nodes ORANGEGHOST:  131
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0009691715240478516
+ASTART number of expanded Nodes ORANGEGHOST:  71
+ASTART number of total Nodes ORANGEGHOST:  105
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  92
+ASTART number of total Nodes ORANGEGHOST:  131
+ASTART computation time ORANGEGHOST:  0.0009980201721191406
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  55
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  58
+ASTART number of total Nodes ORANGEGHOST:  89
+ASTART computation time ORANGEGHOST:  0.0008733272552490234
+ASTART number of expanded Nodes ORANGEGHOST:  91
+ASTART number of total Nodes ORANGEGHOST:  130
+ASTART computation time ORANGEGHOST:  0.0009996891021728516
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  31
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  36
+ASTART number of total Nodes ORANGEGHOST:  64
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  66
+ASTART number of total Nodes ORANGEGHOST:  105
+ASTART computation time ORANGEGHOST:  0.0019681453704833984
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0005173683166503906
+ASTART number of expanded Nodes ORANGEGHOST:  20
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  36
+ASTART number of total Nodes ORANGEGHOST:  64
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  24
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  33
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  30
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  18
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  30
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  28
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  28
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  18
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  39
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  21
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  54
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0010287761688232422
+ASTART number of expanded Nodes ORANGEGHOST:  23
+ASTART number of total Nodes ORANGEGHOST:  47
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  16
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  27
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  16
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  9
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  18
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  18
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  5
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  21
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  25
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  6
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  21
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  13
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  3
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  4
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  6
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  6
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  3
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  6
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  6
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  2
+ASTART number of total Nodes ORANGEGHOST:  3
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  5
+ASTART computation time ORANGEGHOST:  0.0
+Thanks for playing
+You got  18 nomdots.
+Your time was: 13.929789066314697 seconds
+saving...
+
